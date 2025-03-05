@@ -1,0 +1,14 @@
+/Users/lianweideng/Desktop/Antra_FullStack/ConsoleApp1/Assignment_4/bin/Debug/net9.0/Assignment_4
+/Users/lianweideng/Desktop/Antra_FullStack/ConsoleApp1/Assignment_4/bin/Debug/net9.0/Assignment_4.deps.json
+/Users/lianweideng/Desktop/Antra_FullStack/ConsoleApp1/Assignment_4/bin/Debug/net9.0/Assignment_4.runtimeconfig.json
+/Users/lianweideng/Desktop/Antra_FullStack/ConsoleApp1/Assignment_4/bin/Debug/net9.0/Assignment_4.dll
+/Users/lianweideng/Desktop/Antra_FullStack/ConsoleApp1/Assignment_4/bin/Debug/net9.0/Assignment_4.pdb
+/Users/lianweideng/Desktop/Antra_FullStack/ConsoleApp1/Assignment_4/obj/Debug/net9.0/Assignment_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lianweideng/Desktop/Antra_FullStack/ConsoleApp1/Assignment_4/obj/Debug/net9.0/Assignment_4.AssemblyInfoInputs.cache
+/Users/lianweideng/Desktop/Antra_FullStack/ConsoleApp1/Assignment_4/obj/Debug/net9.0/Assignment_4.AssemblyInfo.cs
+/Users/lianweideng/Desktop/Antra_FullStack/ConsoleApp1/Assignment_4/obj/Debug/net9.0/Assignment_4.csproj.CoreCompileInputs.cache
+/Users/lianweideng/Desktop/Antra_FullStack/ConsoleApp1/Assignment_4/obj/Debug/net9.0/Assignment_4.dll
+/Users/lianweideng/Desktop/Antra_FullStack/ConsoleApp1/Assignment_4/obj/Debug/net9.0/refint/Assignment_4.dll
+/Users/lianweideng/Desktop/Antra_FullStack/ConsoleApp1/Assignment_4/obj/Debug/net9.0/Assignment_4.pdb
+/Users/lianweideng/Desktop/Antra_FullStack/ConsoleApp1/Assignment_4/obj/Debug/net9.0/Assignment_4.genruntimeconfig.cache
+/Users/lianweideng/Desktop/Antra_FullStack/ConsoleApp1/Assignment_4/obj/Debug/net9.0/ref/Assignment_4.dll

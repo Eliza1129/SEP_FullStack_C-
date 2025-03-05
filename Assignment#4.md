@@ -69,4 +69,23 @@ for (initialization; condition; iteration){
 statement?
 - If an object must be used in a foreach loop, it must implement `IEnumerable` or `IEnumerable<T>`.
 
-
+# 02 Arrays and Strings
+## Test your Knowledge
+1. When to use String vs. StringBuilder in C# ?
+- Using `String` when we have immutable text and perform few modifications.
+- Using `StringBuilder` when we need to modify strings multiple times. `StringBuilder` is mutable. 
+2. What is the base class for all arrays in C#?
+- the base class for all arrays is `System.Array`. This means all arrays inherit from `System.Array`.
+3. How do you sort an array in C#?
+- we can sort an array using `Array.sort()`
+4. What property of an array object can be used to get the total number of elements in
+an array?
+- Using `length` property of an array to get its total number of elements.
+5. Can you store multiple data types in System.Array?
+- No, `System.Array` can only store one data type because it's strongly typed. 
+6. What’s the difference between the System.Array.CopyTo() and System.Array.Clone()?
+- CopyTo() won't create a new Array and it can deep copy which means copy data won't
+affect original array.
+- Clone() will create a new array, but it only performs a shallow copy.This means:
+For value types, it copies the actual values correctly.
+For reference types, it copies the references but not the objects themselves.
