@@ -1,0 +1,14 @@
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/Assignment_2/bin/Debug/net9.0/Assignment_2
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/Assignment_2/bin/Debug/net9.0/Assignment_2.deps.json
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/Assignment_2/bin/Debug/net9.0/Assignment_2.runtimeconfig.json
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/Assignment_2/bin/Debug/net9.0/Assignment_2.dll
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/Assignment_2/bin/Debug/net9.0/Assignment_2.pdb
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/Assignment_2/obj/Debug/net9.0/Assignment_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/Assignment_2/obj/Debug/net9.0/Assignment_2.AssemblyInfoInputs.cache
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/Assignment_2/obj/Debug/net9.0/Assignment_2.AssemblyInfo.cs
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/Assignment_2/obj/Debug/net9.0/Assignment_2.csproj.CoreCompileInputs.cache
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/Assignment_2/obj/Debug/net9.0/Assignment_2.dll
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/Assignment_2/obj/Debug/net9.0/refint/Assignment_2.dll
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/Assignment_2/obj/Debug/net9.0/Assignment_2.pdb
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/Assignment_2/obj/Debug/net9.0/Assignment_2.genruntimeconfig.cache
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/Assignment_2/obj/Debug/net9.0/ref/Assignment_2.dll

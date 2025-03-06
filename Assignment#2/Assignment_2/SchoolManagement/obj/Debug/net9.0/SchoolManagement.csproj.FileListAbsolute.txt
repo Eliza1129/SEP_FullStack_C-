@@ -1,0 +1,14 @@
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/SchoolManagement/bin/Debug/net9.0/SchoolManagement
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/SchoolManagement/bin/Debug/net9.0/SchoolManagement.deps.json
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/SchoolManagement/bin/Debug/net9.0/SchoolManagement.runtimeconfig.json
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/SchoolManagement/bin/Debug/net9.0/SchoolManagement.dll
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/SchoolManagement/bin/Debug/net9.0/SchoolManagement.pdb
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/SchoolManagement/obj/Debug/net9.0/SchoolManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/SchoolManagement/obj/Debug/net9.0/SchoolManagement.AssemblyInfoInputs.cache
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/SchoolManagement/obj/Debug/net9.0/SchoolManagement.AssemblyInfo.cs
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/SchoolManagement/obj/Debug/net9.0/SchoolManagement.csproj.CoreCompileInputs.cache
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/SchoolManagement/obj/Debug/net9.0/SchoolManagement.dll
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/SchoolManagement/obj/Debug/net9.0/refint/SchoolManagement.dll
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/SchoolManagement/obj/Debug/net9.0/SchoolManagement.pdb
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/SchoolManagement/obj/Debug/net9.0/SchoolManagement.genruntimeconfig.cache
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/SchoolManagement/obj/Debug/net9.0/ref/SchoolManagement.dll

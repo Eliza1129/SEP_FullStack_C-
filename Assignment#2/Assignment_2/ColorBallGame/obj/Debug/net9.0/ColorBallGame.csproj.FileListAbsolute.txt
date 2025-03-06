@@ -1,0 +1,14 @@
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/ColorBallGame/bin/Debug/net9.0/ColorBallGame
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/ColorBallGame/bin/Debug/net9.0/ColorBallGame.deps.json
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/ColorBallGame/bin/Debug/net9.0/ColorBallGame.runtimeconfig.json
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/ColorBallGame/bin/Debug/net9.0/ColorBallGame.dll
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/ColorBallGame/bin/Debug/net9.0/ColorBallGame.pdb
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/ColorBallGame/obj/Debug/net9.0/ColorBallGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/ColorBallGame/obj/Debug/net9.0/ColorBallGame.AssemblyInfoInputs.cache
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/ColorBallGame/obj/Debug/net9.0/ColorBallGame.AssemblyInfo.cs
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/ColorBallGame/obj/Debug/net9.0/ColorBallGame.csproj.CoreCompileInputs.cache
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/ColorBallGame/obj/Debug/net9.0/ColorBallGame.dll
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/ColorBallGame/obj/Debug/net9.0/refint/ColorBallGame.dll
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/ColorBallGame/obj/Debug/net9.0/ColorBallGame.pdb
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/ColorBallGame/obj/Debug/net9.0/ColorBallGame.genruntimeconfig.cache
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#2/Assignment_2/ColorBallGame/obj/Debug/net9.0/ref/ColorBallGame.dll
