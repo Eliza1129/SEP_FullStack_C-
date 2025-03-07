@@ -1,0 +1,14 @@
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_List/bin/Debug/net9.0/Generic_List
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_List/bin/Debug/net9.0/Generic_List.deps.json
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_List/bin/Debug/net9.0/Generic_List.runtimeconfig.json
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_List/bin/Debug/net9.0/Generic_List.dll
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_List/bin/Debug/net9.0/Generic_List.pdb
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_List/obj/Debug/net9.0/Generic_List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_List/obj/Debug/net9.0/Generic_List.AssemblyInfoInputs.cache
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_List/obj/Debug/net9.0/Generic_List.AssemblyInfo.cs
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_List/obj/Debug/net9.0/Generic_List.csproj.CoreCompileInputs.cache
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_List/obj/Debug/net9.0/Generic_List.dll
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_List/obj/Debug/net9.0/refint/Generic_List.dll
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_List/obj/Debug/net9.0/Generic_List.pdb
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_List/obj/Debug/net9.0/Generic_List.genruntimeconfig.cache
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_List/obj/Debug/net9.0/ref/Generic_List.dll

@@ -1,0 +1,14 @@
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_Repository_Pattern/obj/Debug/net9.0/Generic_Repository_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_Repository_Pattern/obj/Debug/net9.0/Generic_Repository_Pattern.AssemblyInfoInputs.cache
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_Repository_Pattern/obj/Debug/net9.0/Generic_Repository_Pattern.AssemblyInfo.cs
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_Repository_Pattern/obj/Debug/net9.0/Generic_Repository_Pattern.csproj.CoreCompileInputs.cache
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_Repository_Pattern/bin/Debug/net9.0/Generic_Repository_Pattern
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_Repository_Pattern/bin/Debug/net9.0/Generic_Repository_Pattern.deps.json
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_Repository_Pattern/bin/Debug/net9.0/Generic_Repository_Pattern.runtimeconfig.json
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_Repository_Pattern/bin/Debug/net9.0/Generic_Repository_Pattern.dll
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_Repository_Pattern/bin/Debug/net9.0/Generic_Repository_Pattern.pdb
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_Repository_Pattern/obj/Debug/net9.0/Generic_Repository_Pattern.dll
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_Repository_Pattern/obj/Debug/net9.0/refint/Generic_Repository_Pattern.dll
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_Repository_Pattern/obj/Debug/net9.0/Generic_Repository_Pattern.pdb
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_Repository_Pattern/obj/Debug/net9.0/Generic_Repository_Pattern.genruntimeconfig.cache
+/Users/lianweideng/Desktop/Antra_FullStack/C#/Assignment#3/ConsoleApp1/Generic_Repository_Pattern/obj/Debug/net9.0/ref/Generic_Repository_Pattern.dll
